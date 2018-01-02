@@ -6,7 +6,7 @@
     - [Course Outline](#course-outline)
 
 ## Honors Intermediate Macro
- This is a course in the tools of modern macroeconomic.  The emphasis will be on theory to help tune your intuition, and provide different lenses to interpret the macro-economy.
+ This is a course in the tools of modern macroeconomics.  The emphasis will be on theory to help tune your intuition, and provide different lenses to interpret the macro-economy.
 
 - **Instructor:** jesse.perla@ubc.ca
 - **Office Hours:** Thursday 10am-12pm in Iona 206
@@ -30,7 +30,7 @@ This material is best learned by doing exercises.  When appropriate, I will revi
 ## Course Outline
 
 - Introduction and Tools
-    
+
     - Why models? Why math?
     - Building to a full model of the macro economy
     - Difference equations, functional equations, and ``guess-and-verify''

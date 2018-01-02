@@ -5,7 +5,7 @@ Get a GitHub ID and use [GitHub](https://github.com/ubcecon/tutorials/blob/maste
 See [Syllabus](syllabus.md) for more details
 
 ## Lectures
-1. **January 3rd/5th** -  [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
+1. **January 3rd** -  [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
 1. **Janary 5th** - [Math Review](/lecture_notes/math_review.pdf)
 1. **January 8th** - [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
 1. **January 10th** -  [Review of Problem Set 0](/problem_sets/problem_set_0.pdf)
