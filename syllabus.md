@@ -9,6 +9,7 @@
  This is a course in the tools of modern macroeconomics.  The emphasis will be on theory to help tune your intuition, and provide different lenses to interpret the macro-economy.
 
 - **Instructor:** jesse.perla@ubc.ca
+- **Teaching Assistant:** Ali Karimirad, alikarimirad1369@gmail.com
 - **Office Hours:** Thursday 10am-12pm in Iona 206
 - **Prerequisites:**  A score of 68\% or higher in ECON 305
 - **Textbook:** None.  I will post my notes online.  Pay attention and ask questions in class rather than writing down everything I say.
