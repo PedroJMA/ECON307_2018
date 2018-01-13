@@ -10,6 +10,9 @@ See [Syllabus](syllabus.md) for more details
 1. **January 8th** - [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
 1. **January 10th** -  [Review of Problem Set 0](/problem_sets/problem_set_0.pdf)
 1. **January 12th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+1. **January 15th** - [Finish Permanent Income Model](/lecture_notes/permanent_income.pdf) and start [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
+1. **January 17th** - [Finish Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 
 ## Problem Sets
 1. **Due in Class January 10th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
+2. **Due in Class January 22nd** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
