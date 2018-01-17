@@ -1,7 +1,7 @@
 # Course materials for ECON307
 Get a GitHub ID and use [GitHub](https://github.com/ubcecon/tutorials/blob/master/github.md) directly. Consider clicking `Watch` at the top of this repository to see file changes
 
-## Syllabus 
+## Syllabus
 See [Syllabus](syllabus.md) for more details
 
 ## Lectures
@@ -11,7 +11,8 @@ See [Syllabus](syllabus.md) for more details
 4. **January 10th** - [Review of Problem Set 0](/problem_sets/problem_set_0.pdf)
 5. **January 12th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 6. **January 15th** - Finish [Permanent Income Model](/lecture_notes/permanent_income.pdf) and start [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-7. **January 17th** - Finish [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
+7. **January 17th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
+8. **January 22nd** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 
 ## Problem Sets
 1. **Due in Class January 10th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
