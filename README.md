@@ -12,7 +12,8 @@ See [Syllabus](syllabus.md) for more details
 5. **January 12th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 6. **January 15th** - Finish [Permanent Income Model](/lecture_notes/permanent_income.pdf) and start [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 7. **January 17th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-8. **January 22nd** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+8. **January 19th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+9. **January 22nd** - Finish [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf) and start [Stochastic Permanent Income Model]((/lecture_notes/stochastic_permanent_income.pdf)
 
 ## Problem Sets
 1. **Due in Class January 10th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
