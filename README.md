@@ -16,8 +16,9 @@ See [Syllabus](syllabus.md) for more details
 9. **January 22nd** - Finish [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 10. **January 24nd** - Started [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
 11. **January 26th** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
-12. **January 29th** - Final example in [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf) and start [Borrowing Constraints and Dynamic Programming](/lecture_notes/no_borrowing_dynamic_programming.pdf)
-13. **January 31st** - Review [Problem Set 1](/problem_sets/problem_set_1.pdf) and more [Borrowing Constraints and Dynamic Programming](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+12. **January 29th** - Final example in [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
+13. **January 31st** - Review [Problem Set 1](/problem_sets/problem_set_1.pdf)
+14. **February 2nd** - [Borrowing Constraints and Dynamic Programming](/lecture_notes/no_borrowing_dynamic_programming.pdf)
 
 ## Problem Sets
 1. **Due in Class January 10th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
