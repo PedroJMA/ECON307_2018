@@ -23,13 +23,13 @@ See [Syllabus](syllabus.md) for more details
 16. **February 7th** - Review [Problem Set 2](/problem_sets/problem_set_2.pdf)
 17. **February 9th** - Review [Problem Set 3](/problem_sets/problem_set_3.pdf)
 18. **February 12th** - Official holiday
-19. **February 14th** - Review Extra problems
+19. **February 14th** - Review [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 ## Problem Sets
 1. **Due in Class January 10th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 2. **Due in Class January 22nd** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due in Class February 2nd** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **Due in Class February 9th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
-5. **Not Handed In** - [Midterm Practice Problems](/problem_sets/problem_set_3.pdf)
+5. **Not Handed In** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 
 ## Exams
 1. **February 16th** - Midterm 12-2pm
