@@ -19,11 +19,14 @@ See [Syllabus](syllabus.md) for more details
 12. **January 29th** - Final example in [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
 13. **January 31st** - Review [Problem Set 1](/problem_sets/problem_set_1.pdf)
 14. **February 2nd** - [Borrowing Constraints and Dynamic Programming](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+15. **February 5th** - Finish [Borrowing Constraints and Dynamic Programming](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+16. **February 7th** - [Search](/lecture_notes/search.pdf)
 
 ## Problem Sets
 1. **Due in Class January 10th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 2. **Due in Class January 22nd** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due in Class February 2nd** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
+4. **Due in Class February 12th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 
 ## Exams
 1. **February 16th** - Midterm (in class)
