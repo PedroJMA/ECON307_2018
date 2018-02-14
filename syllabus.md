@@ -12,7 +12,7 @@
 - **Teaching Assistant:** Ali Karimirad, alikarimirad1369@gmail.com
 - **Office Hours:** Thursday 10am-12pm in Iona 206
 - **Prerequisites:**  A score of 68\% or higher in ECON 305
-- **Textbook:** None.  I will post my notes online.  Pay attention and ask questions in class rather than writing down everything I say.
+- **Textbook:** None.  I will post my notes online (modifications of notes graciously provided by Thomas J. Sargent).  Pay attention and ask questions in class rather than writing down everything I say.
 - **Learning Environment:** Come to class on time.   No cellphones.
 
 ## Course Materials and Communications
@@ -37,47 +37,47 @@ This material is best learned by doing exercises.  When appropriate, I will revi
     - Difference equations, functional equations, and ``guess-and-verify''
     - Probability and stochastic processes
     - Constrained optimization
-    
-- Practice thinking dynamic and recursive 
-    
+
+- Practice thinking dynamic and recursive
+
     - Basic asset pricing example
-    - Present value and infinite geometric sums 
+    - Present value and infinite geometric sums
     - Linear state space models
-    
+
 - Consumption and Savings Decisions
-    
+
     - Permanent income and rational expectations
     - Consumption growth and future income
-    
+
 - Expectations
-    
+
     - Rational vs. adaptive expectations and ``rational bubbles''
-    
+
 - Unemployment and Search
-    
+
     - The ``Lake Model''
     - Markov chains and long-run unemployment rates
     - Models of job search
-    
+
 - General Equilibrium
-    
+
     - Endogenizing wages and other prices
-    
+
 - Interest Rates and Complete Markets
-    
+
     - Theory of interest rates
     - Lucas Model in an endowment economy
     - Event trees and Arrow-Debreu complete markets model (maybe)
-     
+
 - Growth and Fiscal Policy
-    
+
     - Malthusian growth model
     - Optimal growth and capital accumulation
-    - Distorting taxes on capital, labor, and consumption 
+    - Distorting taxes on capital, labor, and consumption
     - Government policy and budgets
     - Foreseen and unforeseen policy changes
-     
+
 - Nominal Frictions and Intro to ``New-Keynesian'' Models (maybe)
-    
+
     - Money-In-Utility (MIU)
     - 2 period Taylor Models
