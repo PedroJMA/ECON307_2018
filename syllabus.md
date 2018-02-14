@@ -34,7 +34,7 @@ This material is best learned by doing exercises.  When appropriate, I will revi
 
     - Why models? Why math?
     - Building to a full model of the macro economy
-    - Difference equations, functional equations, and ``guess-and-verify''
+    - Difference equations, functional equations, and "guess-and-verify"
     - Probability and stochastic processes
     - Constrained optimization
 
