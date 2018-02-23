@@ -24,12 +24,30 @@ See [Syllabus](syllabus.md) for more details
 17. **February 9th** - Review [Problem Set 3](/problem_sets/problem_set_3.pdf)
 18. **February 12th** - Official holiday
 19. **February 14th** - Review [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
+20. **February 16th** - Midterm
+21. **February 26th** - [Search](/lecture_notes/search.pdf)
+22. **February 28th** - Finish [Search](/lecture_notes/search.pdf) and start [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
+23. **March 2nd** - Finish [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
+24. **March 7th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
+25. **March 9th** - Finish [Interest Rates](/lecture_notes/interest_rates.pdf)
+25. **March 12th** - [Stochastic Interest Rates](/lecture_notes/interest_rates.pdf)
+26. **March 14th** - Finish [Stochastic Interest Rates](/lecture_notes/interest_rates.pdf)
+27. **March 16th** -
+27. **March 19th** -
+28. **March 21st** -
+29. **March 23rd** -
+29. **March 26th** - Tutorial
+30. **March 28th** - Tutorial
+32. **April 4th** -
+33. **April 6th** -
+
 ## Problem Sets
 1. **Due in Class January 10th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 2. **Due in Class January 22nd** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due in Class February 2nd** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **Due in Class February 9th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 5. **Not Handed In** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
+6. **Due in Class March 7th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 
 ## Exams
 1. **February 16th** - Midterm 12-2pm
