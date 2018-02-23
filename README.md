@@ -30,8 +30,8 @@ See [Syllabus](syllabus.md) for more details
 23. **March 2nd** - Finish [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 24. **March 7th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
 25. **March 9th** - Finish [Interest Rates](/lecture_notes/interest_rates.pdf)
-25. **March 12th** - [Stochastic Interest Rates](/lecture_notes/interest_rates.pdf)
-26. **March 14th** - Finish [Stochastic Interest Rates](/lecture_notes/interest_rates.pdf)
+25. **March 12th** - [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
+26. **March 14th** - Finish [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
 27. **March 16th** -
 27. **March 19th** -
 28. **March 21st** -
