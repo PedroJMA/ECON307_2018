@@ -29,9 +29,9 @@ See [Syllabus](syllabus.md) for more details
 22. **February 28th** - Finish [Search](/lecture_notes/search.pdf) and start [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 23. **March 2nd** - Finish [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 24. **March 7th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
-25. **March 9th** - Finish [Interest Rates](/lecture_notes/interest_rates.pdf)
-25. **March 12th** - [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
-26. **March 14th** - Finish [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
+25. **March 9th** - [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
+25. **March 12th** - Finish [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
+26. **March 14th** -
 27. **March 16th** -
 27. **March 19th** -
 28. **March 21st** -
@@ -48,6 +48,7 @@ See [Syllabus](syllabus.md) for more details
 4. **Due in Class February 9th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 5. **Not Handed In** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 6. **Due in Class March 7th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
+7. **Due in Class March 19th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
 
 ## Exams
 1. **February 16th** - Midterm 12-2pm
