@@ -29,11 +29,11 @@ See [Syllabus](syllabus.md) for more details
 22. **February 28th** - Finish [Search](/lecture_notes/search.pdf) and start [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 23. **March 2nd** - Finish [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 24. **March 7th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
-25. **March 9th** - [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
-25. **March 12th** - Finish [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
-26. **March 14th** -
-27. **March 16th** -
-27. **March 19th** -
+25. **March 9th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
+25. **March 12th** - [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
+26. **March 14th** - [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
+27. **March 16th** - [Growth](/lecture_notes/growth.pdf)
+27. **March 19th** - [Growth](/lecture_notes/growth.pdf)
 28. **March 21st** -
 29. **March 23rd** -
 29. **March 26th** - Tutorial
