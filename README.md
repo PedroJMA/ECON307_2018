@@ -29,17 +29,17 @@ See [Syllabus](syllabus.md) for more details
 22. **February 28th** - Finish [Search](/lecture_notes/search.pdf) and start [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 23. **March 2nd** - Finish [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 24. **March 7th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
-25. **March 9th** - [Interest Rates](/lecture_notes/interest_rates.pdf)
+25. **March 9th** -  Finish [Interest Rates](/lecture_notes/interest_rates.pdf)
 25. **March 12th** - [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
-26. **March 14th** - [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
-27. **March 16th** - [Growth](/lecture_notes/growth.pdf)
+26. **March 14th** - Review [Problem Set 4](/problem_sets/problem_set_4.pdf)
+27. **March 16th** - Finish [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
 27. **March 19th** - [Growth](/lecture_notes/growth.pdf)
-28. **March 21st** -
-29. **March 23rd** -
-29. **March 26th** - Tutorial
-30. **March 28th** - Tutorial
-32. **April 4th** -
-33. **April 6th** -
+28. **March 21st** - [Growth](/lecture_notes/growth.pdf)
+29. **March 23rd** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
+29. **March 26th** - Review [Problem Set 5](/problem_sets/problem_set_5.pdf)
+30. **March 28th** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
+32. **April 4th** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
+33. **April 6th** - Review [Problem Set 6](/problem_sets/problem_set_6.pdf)
 
 ## Problem Sets
 1. **Due in Class January 10th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
@@ -49,6 +49,9 @@ See [Syllabus](syllabus.md) for more details
 5. **Not Handed In** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 6. **Due in Class March 7th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 7. **Due in Class March 19th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
+8. **Due in Class April 6th** - [Problem Set 6](/problem_sets/problem_set_6.pdf)
+9. **Not Handed In** - [Final Practice Problems](/problem_sets/final_practice_problems.pdf)
 
 ## Exams
 1. **February 16th** - Midterm 12-2pm
+2. **April 19th** - Final Exam 12-3pm (Tentative)
