@@ -38,8 +38,8 @@ See [Syllabus](syllabus.md) for more details
 29. **March 23rd** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
 29. **March 26th** - Review [Problem Set 5](/problem_sets/problem_set_5.pdf)
 30. **March 28th** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
-32. **April 4th** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
-33. **April 6th** - Review [Problem Set 6](/problem_sets/problem_set_6.pdf)
+32. **April 4th** - Review [Problem Set 6](/problem_sets/problem_set_6.pdf)
+33. **April 6th** - Review [Final Practice Problems](/problem_sets/final_practice_problems.pdf)
 
 ## Problem Sets
 1. **Due in Class January 10th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
@@ -49,7 +49,7 @@ See [Syllabus](syllabus.md) for more details
 5. **Not Handed In** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 6. **Due in Class March 7th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 7. **Due in Class March 19th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
-8. **Due in Class April 6th** - [Problem Set 6](/problem_sets/problem_set_6.pdf)
+8. **Due in Class April 4th** - [Problem Set 6](/problem_sets/problem_set_6.pdf)
 9. **Not Handed In** - [Final Practice Problems](/problem_sets/final_practice_problems.pdf)
 
 ## Exams
